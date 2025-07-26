@@ -4,3 +4,7 @@
 
 /.vs
 /code/Neutron Studio/.vs/Neutron Studio
+/code/Neutron Studio/Build/BlankProject/Release
+/code/Neutron Studio/BlankProject/Intermediate/Release
+/code/Neutron Studio/BlankProject/Intermediate/Debug
+/code/Neutron Studio/Build/BlankProject/Debug
